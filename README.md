@@ -1,4 +1,4 @@
-# GORGEOUS
+# VARUNA
 Generative adversarial network (GANs) for OCEAN BLOOM
 
 
