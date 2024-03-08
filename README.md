@@ -1,5 +1,5 @@
 # VARUNA
-Generative adversarial network (GANs) for OCEAN BLOOM
+Generative adversarial network (GANs) for OCEAN
 
 
 
